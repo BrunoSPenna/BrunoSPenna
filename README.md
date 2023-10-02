@@ -24,9 +24,17 @@
     <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React" height="50vh" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React-Redux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" target="_blank"><img align="center" alt="React-Redux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" target="_blank"><img align="center" alt="Csharp" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
            /></a>
-   
+ <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" target="_blank" style="display: inline-block; background-color: white; padding: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" height="50" />
+</a>
+
+</a>
+
+
+           
+         
     
 📍 
     <div style="display: inline_block">
