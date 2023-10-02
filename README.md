@@ -24,8 +24,9 @@
     <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React" height="50vh" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React-Redux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" target="_blank"><img align="center" alt="React-Redux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+           /></a>
    
-    <br>
     
 📍 
     <div style="display: inline_block">
@@ -34,14 +35,14 @@
     <a href="https://nodejs.org/" target="_blank"><img align="center" alt="NodeJS" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
    
-    <br>
+  
     
 📍 
     <div style="display: inline_block">
     <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="Jest" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
     <a><img align="center" alt="Jest" height="50vh" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
-    <br>
+   
     
 📍 
     <div style="display: inline_block">
