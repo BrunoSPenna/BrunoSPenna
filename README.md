@@ -14,9 +14,9 @@
 </div>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-Hard Skills:
 
-📍 Front-End
+
+📍 
     <div style="display: inline_block">
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="HTML5" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img align="center" alt="CSS3" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
@@ -27,7 +27,7 @@ Hard Skills:
     <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUi" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
     <br>
     
-📍 Back-End
+📍 
     <div style="display: inline_block">
     <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySQL" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
@@ -36,14 +36,14 @@ Hard Skills:
     <a href="https://www.heroku.com/" target="_blank"><img align="center" alt="Heroku" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></a>
     <br>
     
-📍 Testing
+📍 
     <div style="display: inline_block">
     <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="Jest" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
     <a><img align="center" alt="Jest" height="50vh" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
     <br>
     
-📍 DevOps
+📍 
     <div style="display: inline_block">
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" alt="Linux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /></a>
     <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Bash&Unix" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
@@ -54,8 +54,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /
 </div>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunospenna&show_icons=true&locale=en&layout=compact" alt="brunospenna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunospenna&show_icons=true&locale=en" alt="brunospenna" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunospenna&" alt="brunospenna" /></p>
