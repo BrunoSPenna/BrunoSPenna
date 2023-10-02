@@ -33,7 +33,7 @@
     <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
     <a href="https://nodejs.org/" target="_blank"><img align="center" alt="NodeJS" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
-    <a href="https://www.heroku.com/" target="_blank"><img align="center" alt="Heroku" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></a>
+   
     <br>
     
 📍 
