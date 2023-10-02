@@ -24,7 +24,7 @@
     <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React" height="50vh" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg /></a>
     <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"><img align="center" alt="React-Redux" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-    <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUi" height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+   
     <br>
     
 📍 
