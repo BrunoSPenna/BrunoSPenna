@@ -1,4 +1,4 @@
-Olá meu nome é Bruno Serpa!!
+<h1 align="center">Olá! Me chamo Bruno Serpa, sou desenvolvedor Web</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunospenna&label=Profile%20views&color=0e75b6&style=flat" alt="brunospenna" /> </p>
 
 <h3 align="left">Contatos:</h3>
